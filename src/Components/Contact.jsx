@@ -34,7 +34,7 @@ export default function Contact() {
         }
       );
   };
- 
+
 
   return (
     <section
@@ -122,7 +122,7 @@ export default function Contact() {
                 Send Message
               </button>
 
-             
+
 
               {status && (
                 <p className="text-center text-gray-300 pt-2">
@@ -150,7 +150,7 @@ export default function Contact() {
                   </h4>
 
                   <p className="text-gray-400">
-                    +971 50 000 0000
+                    +971542920168
                   </p>
                 </div>
               </div>
@@ -166,7 +166,7 @@ export default function Contact() {
                   </h4>
 
                   <p className="text-gray-400">
-                    info@roadwaygarage.com
+                    roadwayautomaintenance@gmail.com
                   </p>
                 </div>
               </div>
@@ -182,7 +182,10 @@ export default function Contact() {
                   </h4>
 
                   <p className="text-gray-400">
-                    Dubai, United Arab Emirates
+                    Roadway Auto Maint.
+                    Shj Ind Area 4,
+                    Shajrah
+                    UAE
                   </p>
                 </div>
               </div>
@@ -198,7 +201,7 @@ export default function Contact() {
                   </h4>
 
                   <p className="text-gray-400">
-                    Daily: 8 AM - 9 PM
+                    Daily: 9 AM - 11 PM
                   </p>
                 </div>
               </div>
@@ -208,7 +211,7 @@ export default function Contact() {
             {/* MAP */}
             <iframe
               title="ROADWAY Garage Location"
-              src="https://www.google.com/maps?q=Dubai%20United%20Arab%20Emirates&output=embed"
+              src="https://maps.google.com/maps?q=ROADWAY&t=&z=15&ie=UTF8&iwloc=&output=embed"
               className="w-full h-[350px] border-0"
               loading="lazy"
               allowFullScreen

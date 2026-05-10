@@ -85,7 +85,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="#services"
+              href="#gallery"
               className="px-10 py-4 rounded-2xl border border-white/20 hover:border-roadwayRed text-white font-bold text-lg bg-white/5 hover:bg-white/10 transition"
             >
               Explore Services

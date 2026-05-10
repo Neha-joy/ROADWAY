@@ -5,6 +5,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import WhatsAppFloat from "./Components/WhatsAppFloat";
+import Gallery from "./Components/Gallery";
 
 export default function App() {
   return (
@@ -13,9 +14,11 @@ export default function App() {
       <Hero />
       <Services />
       <About />
+      <Gallery />
       <Contact />
       <Footer />
       <WhatsAppFloat />
+      
     </div>
   );
 }
