@@ -64,7 +64,7 @@ export default function Hero() {
 
           </div>
 
-    
+
 
           {/* DESCRIPTION */}
           <p className="text-gray-300 text-lg leading-relaxed max-w-2xl">
@@ -94,39 +94,40 @@ export default function Hero() {
           </div>
 
           {/* STATS */}
+          {/* STATS
           <div className="mt-14 grid grid-cols-3 gap-6 max-w-xl">
 
             <div>
               <h3 className="text-4xl font-black text-roadwayRed">
-                10+
+                New
               </h3>
 
               <p className="text-gray-400 mt-2">
-                Years Experience
+                Modern Garage
               </p>
             </div>
 
             <div>
               <h3 className="text-4xl font-black text-roadwayRed">
-                5K+
+                100%
               </h3>
 
               <p className="text-gray-400 mt-2">
-                Cars Serviced
+                Quality Focus
               </p>
             </div>
 
             <div>
               <h3 className="text-4xl font-black text-roadwayRed">
-                24/7
+                Fast
               </h3>
 
               <p className="text-gray-400 mt-2">
-                Customer Support
+                Service Support
               </p>
             </div>
 
-          </div>
+          </div> */}
         </motion.div>
 
         {/* RIGHT SIDE */}
